@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: linux]]></title>
-  <link href="https://objeksinulingga.github.io/posts/category/linux/atom.xml" rel="self"/>
-  <link href="https://objeksinulingga.github.io/"/>
-  <updated>2019-03-08T11:43:05+07:00</updated>
-  <id>https://objeksinulingga.github.io/</id>
+  <link href="http://objeksinulingga.github.io/posts/category/linux/atom.xml" rel="self"/>
+  <link href="http://objeksinulingga.github.io/"/>
+  <updated>2019-03-08T12:36:44+07:00</updated>
+  <id>http://objeksinulingga.github.io/</id>
   <author>
     <name><![CDATA[Objek Sinulingga]]></name>
     
@@ -14,10 +14,10 @@
   
   <entry>
     <title type="html"><![CDATA[How to Generate New SSH Key on Linux ?]]></title>
-    <link href="https://objeksinulingga.github.io/posts/how-to-generate-new-ssh-key-on-linux/"/>
+    <link href="http://objeksinulingga.github.io/posts/how-to-generate-new-ssh-key-on-linux/"/>
     <updated>2016-05-27T22:49:05+07:00</updated>
-    <id>https://objeksinulingga.github.io/posts/how-to-generate-new-ssh-key-on-linux</id>
-    <content type="html"><![CDATA[<p><p>Welcome to my my Blog &hellip; this time i try to write in English <img alt="smiley" src="https://objeksinulingga.github.io/images/emoji/unicode/1f603.png" class="emoji" />. Before you generate a new an ssh key to use for an authentication on github, cpanel hosting or another project, you can check for existing SSH Keys on your pc or laptop. What i am talking here is how to generate SSH Keys On linux</p>
+    <id>http://objeksinulingga.github.io/posts/how-to-generate-new-ssh-key-on-linux</id>
+    <content type="html"><![CDATA[<p><p>Welcome to my my Blog &hellip; this time i try to write in English <img alt="smiley" src="http://objeksinulingga.github.io/images/emoji/unicode/1f603.png" class="emoji" />. Before you generate a new an ssh key to use for an authentication on github, cpanel hosting or another project, you can check for existing SSH Keys on your pc or laptop. What i am talking here is how to generate SSH Keys On linux</p>
 ]]></content>
   </entry>
   

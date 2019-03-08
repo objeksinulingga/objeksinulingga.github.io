@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: diqus]]></title>
-  <link href="https://objeksinulingga.github.io/posts/tags/diqus/atom.xml" rel="self"/>
-  <link href="https://objeksinulingga.github.io/"/>
-  <updated>2019-03-08T11:43:05+07:00</updated>
-  <id>https://objeksinulingga.github.io/</id>
+  <link href="http://objeksinulingga.github.io/posts/tags/diqus/atom.xml" rel="self"/>
+  <link href="http://objeksinulingga.github.io/"/>
+  <updated>2019-03-08T12:36:44+07:00</updated>
+  <id>http://objeksinulingga.github.io/</id>
   <author>
     <name><![CDATA[Objek Sinulingga]]></name>
     
@@ -14,9 +14,9 @@
   
   <entry>
     <title type="html"><![CDATA[Adding or Installing Disqus on Octopress Blog]]></title>
-    <link href="https://objeksinulingga.github.io/posts/adding-or-installing-disqus-on-octopress-blog/"/>
+    <link href="http://objeksinulingga.github.io/posts/adding-or-installing-disqus-on-octopress-blog/"/>
     <updated>2016-05-29T22:41:31+07:00</updated>
-    <id>https://objeksinulingga.github.io/posts/adding-or-installing-disqus-on-octopress-blog</id>
+    <id>http://objeksinulingga.github.io/posts/adding-or-installing-disqus-on-octopress-blog</id>
     <content type="html"><![CDATA[<p><p>How to add or install disqus comment on octopress blog? Because Octopress blog does not use database, so .. we can use third-party plugin to accommodate the comments. Then the visitor can more easily give their comments</p>
 ]]></content>
   </entry>

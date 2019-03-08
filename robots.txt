@@ -5,8 +5,8 @@ User-agent: *
 Disallow: 
 Allow : 
 
-Sitemap: https://objeksinulingga.github.io/sitemap.xml 
-Sitemap: https://objeksinulingga.github.io/atom.xml 
-Sitemap: https://objeksinulingga.github.io/image.xml 
+Sitemap: http://objeksinulingga.github.io/sitemap.xml 
+Sitemap: http://objeksinulingga.github.io/atom.xml 
+Sitemap: http://objeksinulingga.github.io/image.xml 
 
 
