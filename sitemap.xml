@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://objeksinulingga.github.io/posts/title/</loc>
+<lastmod>2019-03-09T11:33:10+07:00</lastmod>
+</url>
+<url>
 <loc>http://objeksinulingga.github.io/posts/siapakah-fridtjof-nansen-yang-menjadi-google-doodle-hari-ini/</loc>
 <lastmod>2017-10-10T20:35:47+07:00</lastmod>
 </url>
@@ -61,12 +65,6 @@
 <lastmod>2016-05-24T23:06:21+07:00</lastmod>
 </url>
 <url>
-<loc>http://objeksinulingga.github.io/tag/</loc>
-</url>
-<url>
-<loc>http://objeksinulingga.github.io/category/</loc>
-</url>
-<url>
 <loc>http://objeksinulingga.github.io/images/emoji/</loc>
 </url>
 <url>
@@ -79,7 +77,25 @@
 <loc>http://objeksinulingga.github.io/daftar-isi/</loc>
 </url>
 <url>
+<loc>http://objeksinulingga.github.io/posts/category/</loc>
+</url>
+<url>
+<loc>http://objeksinulingga.github.io/posts/tags/</loc>
+</url>
+<url>
 <loc>http://objeksinulingga.github.io/</loc>
+</url>
+<url>
+<loc>http://objeksinulingga.github.io/filename/</loc>
+</url>
+<url>
+<loc>http://objeksinulingga.github.io/about/</loc>
+</url>
+<url>
+<loc>http://objeksinulingga.github.io/disclaimer/</loc>
+</url>
+<url>
+<loc>http://objeksinulingga.github.io/privasi/</loc>
 </url>
 <url>
 <loc>http://objeksinulingga.github.io/posts/category/google-doodle/</loc>
