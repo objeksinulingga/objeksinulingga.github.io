@@ -4,13 +4,65 @@
   <title><![CDATA[Category: tips trik]]></title>
   <link href="http://objeksinulingga.github.io/posts/category/tips-trik/atom.xml" rel="self"/>
   <link href="http://objeksinulingga.github.io/"/>
-  <updated>2019-03-12T03:46:52+07:00</updated>
+  <updated>2019-03-14T08:12:25+07:00</updated>
   <id>http://objeksinulingga.github.io/</id>
   <author>
     <name><![CDATA[Objek Sinulingga]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Install Preload Di Linux]]></title>
+    <link href="http://objeksinulingga.github.io/posts/cara-install-preload-di-linux/"/>
+    <updated>2019-03-12T14:30:27+07:00</updated>
+    <id>http://objeksinulingga.github.io/posts/cara-install-preload-di-linux</id>
+    <content type="html"><![CDATA[<p>Menurut yang saya ketahui preload adalah salah satu aplikasi pada linux yang berjalan di latar belakang yang fungsinya ialah untuk mempercepat kinerja kinerja pc, laptop atau notebook yang menggunakan Operasi Sistem (OS) linux . Operasi sistem yang saya gunakan ialah Kali linux yang dirancang dari debian. Selain di komputer, kali linux juga telah dapat di install di PDA gemini, Ponsel Android dan hal ini dapat anda lihat di situs kali linux.</p>
+
+<p>Berdasarkan informasi yang saya peroleh, aplikasi preload tentu dapat berjalan di berbagai distro linux misalnya ubuntu, linux mint, fedora dan lain sebagainya. Preload merupakan aplikasi yang menambahkan cache pada sistem linux dengan demikian akan mempercepat kerja linux anda dan mengurangi terjadinya lag, terjadinya lag kemungkinan besar diakibatkan oleh RAM yang kecil dan ketika anda membuka banya aplikasi maka kadang terjadi freeze atau aplikasi berhenti dan hal itu sering terjadi jika anda memiliki komputer jadul. Sekarang ini kebanyakan note book atau laptop menggunakan ram yang tinggi, produk baru biasanya minimal memiliki ram diatas 4 GB.</p>
+
+<p>Meskipun anda memiliki spek komputer yang tinggi, aplikasi preload tersebut jelas sekali akan membantu akses aplikasi di system anda semakin cepat karena komputer memiliki cache sehingga sistem tidak perlu bekerja dengan lebih berat ketika anda membuka berbagai aplikasi yang sering anda gunakan. Berdasarkan pengguna linux yang telah menginstall aplikasi ini mengatakan bahwa terasa bedanya setelah menggunakan aplikasi tersebut.</p>
+
+<p>Setelah saya mencari cara yang tepat untuk menginstall aplikasi preload tersebut maka secara umum pada sistem debian dan linux lainnya :</p>
+
+<pre><code>apt-get install preload
+</code></pre>
+
+<p>Untuk linux fedora
+<code>
+yum install preload
+</code></p>
+
+<p>Namun yang terjadi pada linux yang saya gunakan ialah</p>
+
+<p>root@kali:/home/objekslingga/myblog# apt-get install preload
+Reading package lists&hellip; Done
+Building dependency tree     <br/>
+Reading state information&hellip; Done
+Package preload is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source</p>
+
+<p>E: Package &lsquo;preload&rsquo; has no installation candidate</p>
+
+<p>ini juga muncul walaupun saya login sebagai root. Menurut penjelasan diatas sebenarnya aplikasi tersebut ada, akan tetapi berada di repositori yang lain. Dapat juga diartikan bahwa preload tidak ada di repositori kali linux yang saya gunakan saat ini. Preload bisa saja di install dengan menambahkan repositori di luar kali linux akan tetapi saya kurang suka menambahkan repositori di luar kali linux.</p>
+
+<p>Jadi yang saya lakukan ialah men <a href="https://excellmedia.dl.sourceforge.net/project/preload/preload/0.6.4/preload-0.6.4.tar.gz">Download</a> mengunduh preload dengan ektensi file tar.gz, menyimpan file di home folder agar mudah melakukan instalasi. Langkah yang saya lakukan ialah sebagai berikut:</p>
+
+<p>Buka Terminal atau Linux Cli anda</p>
+
+<p>apt-get install libperl-dev
+apt-get install libgtk2.0-dev</p>
+
+<p>tar -xzf preload-0.6.4.tar.gz
+cd preload-0.6.4
+./configure
+make
+make install</p>
+
+<p>Kegagalan yang mungkin terjadi sewaktu melakukan instalasi ialah</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cara Bernyanyi Agar Tidak Fals]]></title>
