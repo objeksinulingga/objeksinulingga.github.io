@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: linux]]></title>
-  <link href="http://objeksinulingga.github.io/posts/category/linux/atom.xml" rel="self"/>
+  <title><![CDATA[Tag: Install]]></title>
+  <link href="http://objeksinulingga.github.io/posts/tags/install/atom.xml" rel="self"/>
   <link href="http://objeksinulingga.github.io/"/>
   <updated>2019-03-14T15:29:05+07:00</updated>
   <id>http://objeksinulingga.github.io/</id>
@@ -13,20 +13,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Cara Install Preload Di Linux]]></title>
+    <title type="html"><![CDATA[Cara install preload di Linux]]></title>
     <link href="http://objeksinulingga.github.io/posts/cara-install-preload-di-linux/"/>
     <updated>2019-03-12T14:30:27+07:00</updated>
     <id>http://objeksinulingga.github.io/posts/cara-install-preload-di-linux</id>
     <content type="html"><![CDATA[<p>Menurut yang saya ketahui preload adalah salah satu aplikasi pada linux yang berjalan di latar belakang yang fungsinya ialah untuk mempercepat kinerja kinerja pc, laptop atau notebook yang menggunakan Operasi Sistem (OS) linux . Operasi sistem yang saya gunakan ialah Kali linux yang dirancang alias berbasis debian. Selain di komputer, kali linux juga telah dapat di install di PDA gemini, Ponsel Android dan hal ini dapat anda lihat di situs kali linux.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to Generate New SSH Key on Linux ?]]></title>
-    <link href="http://objeksinulingga.github.io/posts/how-to-generate-new-ssh-key-on-linux/"/>
-    <updated>2016-05-27T22:49:05+07:00</updated>
-    <id>http://objeksinulingga.github.io/posts/how-to-generate-new-ssh-key-on-linux</id>
-    <content type="html"><![CDATA[<p><p>Welcome to my my Blog &hellip; this time i try to write in English <img alt="smiley" src="http://objeksinulingga.github.io/images/emoji/unicode/1f603.png" class="emoji" />. Before you generate a new an ssh key to use for an authentication on github, cpanel hosting or another project, you can check for existing SSH Keys on your pc or laptop. What i am talking here is how to generate SSH Keys On linux</p>
 ]]></content>
   </entry>
   
